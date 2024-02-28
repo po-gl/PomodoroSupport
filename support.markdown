@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### What is Pomodoro
+### What is Pomodoro?
 Pomodoro is a time management technique developed by Francesco Cirillo in the 80s and expanded on in the 90s. The basic idea is to decide what tasks to do at the start of the day and estimate how long they will take; throughout the workday, work for 25 minutes, rest for 5 minutes, then take a more extended 15-30-minute break after repeating the work-rest interval four times. Finally, record how long tasks took and compare against your estimations. The purpose is to be more deliberate about your decision-making, reduce interruptions, and alleviate anxiety associated with the concept of _becoming_ (a concept relating to how we view time). You can read more about the technique in this [paper](http://friend.ucsd.edu/reasonableexpectations/downloads/Cirillo%20--%20Pomodoro%20Technique.pdf).
 
 ### Why do live activities require an internet connection?
